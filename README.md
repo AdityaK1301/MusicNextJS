@@ -16,7 +16,6 @@ Welcome to **MusicNextJS**, a premier music education platform built with Next.j
 - **React**: A JavaScript library for building user interfaces.
 - **Node.js**: JavaScript runtime for server-side code.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
-- **MongoDB**: Database for storing user data and resources.
 
 ## Getting Started
 
