@@ -39,18 +39,14 @@ Welcome to **MusicNextJS**, a premier music education platform built with Next.j
    ```
 4. Open your browser and visit `http://localhost:3000`.
 
-## Contributing
+##Snippets of UI
 
-We welcome contributions from the community! To get involved:
-- Fork the repository and create your branch.
-- Create a Pull Request with a detailed description of your changes.
+<img width="1906" height="664" alt="Screenshot 2026-02-16 at 1 05 07 PM" src="https://github.com/user-attachments/assets/45e00ed9-0974-40ac-821f-69dde3f760ea" />
 
-## License
+<img width="1907" height="893" alt="Screenshot 2026-02-16 at 1 05 32 PM" src="https://github.com/user-attachments/assets/c2088c54-07cb-46d4-9daa-c890b4555a92" />
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<img width="1903" height="639" alt="Screenshot 2026-02-16 at 1 06 43 PM" src="https://github.com/user-attachments/assets/1c3889ea-6378-43dd-80ee-a674b1369b5d" />
 
-## Contact
+<img width="1908" height="876" alt="Screenshot 2026-02-16 at 1 07 22 PM" src="https://github.com/user-attachments/assets/d51ce77f-4dc9-4dc8-97e5-dfd76c2dc061" />
 
-For inquiries, please reach out at [your.email@example.com].
-
-Happy learning!
+<img width="1905" height="854" alt="Screenshot 2026-02-16 at 1 14 31 PM" src="https://github.com/user-attachments/assets/febe8d06-eb44-41a4-9703-b8d29dd42b74" />
